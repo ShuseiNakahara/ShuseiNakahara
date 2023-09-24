@@ -1,4 +1,5 @@
 ### Hi there, I'm Shusei Nakahara 👋
+For activities outside of the GitHub repository, please check social accounts!
 
 [![Shusei Nakahara's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShuseiNakahara&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
